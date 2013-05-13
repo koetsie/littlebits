@@ -1,0 +1,5 @@
+C:\Documents and Settings\Administrator\Desktop\OTP\Random_digits\random_digits_class\bin\Debug\RandomDigits.dll
+C:\Documents and Settings\Administrator\Desktop\OTP\Random_digits\random_digits_class\bin\Debug\RandomDigits.pdb
+C:\Documents and Settings\Administrator\Desktop\OTP\Random_digits\random_digits_class\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\OTP\Random_digits\random_digits_class\obj\Debug\RandomDigits.dll
+C:\Documents and Settings\Administrator\Desktop\OTP\Random_digits\random_digits_class\obj\Debug\RandomDigits.pdb

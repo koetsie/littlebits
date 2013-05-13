@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testApp_console", "testApp_console\testApp_console.csproj", "{CBDE4102-AE53-4EA2-A60E-9ED555AEB9E1}"
+	ProjectSection(ProjectDependencies) = postProject
+		{040EEF78-0C5A-4E98-B18F-E3C2175318CB} = {040EEF78-0C5A-4E98-B18F-E3C2175318CB}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Random", "random_digits_class\Random.csproj", "{040EEF78-0C5A-4E98-B18F-E3C2175318CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBDE4102-AE53-4EA2-A60E-9ED555AEB9E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBDE4102-AE53-4EA2-A60E-9ED555AEB9E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBDE4102-AE53-4EA2-A60E-9ED555AEB9E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBDE4102-AE53-4EA2-A60E-9ED555AEB9E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{040EEF78-0C5A-4E98-B18F-E3C2175318CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{040EEF78-0C5A-4E98-B18F-E3C2175318CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{040EEF78-0C5A-4E98-B18F-E3C2175318CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{040EEF78-0C5A-4E98-B18F-E3C2175318CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
